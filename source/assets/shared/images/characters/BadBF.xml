@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RECUP_BadBF.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BfBad Down0000" x="0" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0001" x="0" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0002" x="235" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0003" x="235" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0004" x="470" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0005" x="470" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0006" x="705" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0007" x="705" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0008" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0009" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0010" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0011" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0012" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0013" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0014" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0015" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0016" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0017" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0018" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0019" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0020" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0021" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0022" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0023" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0024" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0025" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0026" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0027" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0028" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0029" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0030" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0031" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0032" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0033" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0034" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0035" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0036" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0037" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0038" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0039" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0040" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0041" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0042" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0043" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Down0044" x="940" y="0" width="235" height="290"/>
+	<SubTexture name="BfBad Idlee0000" x="1175" y="0" width="260" height="302"/>
+	<SubTexture name="BfBad Idlee0001" x="1175" y="0" width="260" height="302"/>
+	<SubTexture name="BfBad Idlee0002" x="1435" y="0" width="260" height="302"/>
+	<SubTexture name="BfBad Idlee0003" x="1435" y="0" width="260" height="302"/>
+	<SubTexture name="BfBad Idlee0004" x="1695" y="0" width="260" height="302"/>
+	<SubTexture name="BfBad Idlee0005" x="1695" y="0" width="260" height="302"/>
+	<SubTexture name="BfBad Idlee0006" x="0" y="302" width="260" height="302"/>
+	<SubTexture name="BfBad Idlee0007" x="0" y="302" width="260" height="302"/>
+	<SubTexture name="BfBad Idlee0008" x="260" y="302" width="260" height="302"/>
+	<SubTexture name="BfBad Idlee0009" x="260" y="302" width="260" height="302"/>
+	<SubTexture name="BfBad Idlee0010" x="260" y="302" width="260" height="302"/>
+	<SubTexture name="BfBad Idlee0011" x="260" y="302" width="260" height="302"/>
+	<SubTexture name="BfBad Idlee0012" x="260" y="302" width="260" height="302"/>
+	<SubTexture name="BfBad Left0000" x="520" y="302" width="433" height="415" frameX="0" frameY="-4" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0001" x="520" y="302" width="433" height="415" frameX="0" frameY="-4" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0002" x="953" y="302" width="421" height="418" frameX="-12" frameY="-5" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0003" x="953" y="302" width="421" height="418" frameX="-12" frameY="-5" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0004" x="1374" y="302" width="426" height="428" frameX="-19" frameY="0" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0005" x="1374" y="302" width="426" height="428" frameX="-19" frameY="0" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0006" x="0" y="730" width="426" height="428" frameX="-17" frameY="0" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0007" x="0" y="730" width="426" height="428" frameX="-17" frameY="0" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0008" x="426" y="730" width="426" height="428" frameX="-14" frameY="0" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0009" x="426" y="730" width="426" height="428" frameX="-14" frameY="0" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0010" x="426" y="730" width="426" height="428" frameX="-14" frameY="0" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0011" x="426" y="730" width="426" height="428" frameX="-14" frameY="0" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0012" x="426" y="730" width="426" height="428" frameX="-14" frameY="0" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Left0013" x="426" y="730" width="426" height="428" frameX="-14" frameY="0" frameWidth="445" frameHeight="428"/>
+	<SubTexture name="BfBad Right0000" x="852" y="730" width="556" height="556" frameX="-24" frameY="-15" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0001" x="852" y="730" width="556" height="556" frameX="-24" frameY="-15" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0002" x="1408" y="730" width="564" height="565" frameX="-13" frameY="-6" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0003" x="1408" y="730" width="564" height="565" frameX="-13" frameY="-6" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0004" x="0" y="1295" width="571" height="572" frameX="0" frameY="0" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0005" x="0" y="1295" width="571" height="572" frameX="0" frameY="0" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0006" x="571" y="1295" width="571" height="571" frameX="-4" frameY="-2" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0007" x="571" y="1295" width="571" height="571" frameX="-4" frameY="-2" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0008" x="571" y="1295" width="571" height="571" frameX="-4" frameY="-2" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0009" x="1142" y="1295" width="569" height="569" frameX="-5" frameY="-3" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0010" x="1142" y="1295" width="569" height="569" frameX="-5" frameY="-3" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0011" x="1142" y="1295" width="569" height="569" frameX="-5" frameY="-3" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0012" x="1142" y="1295" width="569" height="569" frameX="-5" frameY="-3" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Right0013" x="1142" y="1295" width="569" height="569" frameX="-5" frameY="-3" frameWidth="580" frameHeight="573"/>
+	<SubTexture name="BfBad Up0000" x="0" y="1867" width="431" height="428" frameX="-3" frameY="0" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0001" x="0" y="1867" width="431" height="428" frameX="-3" frameY="0" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0002" x="431" y="1867" width="452" height="414" frameX="-2" frameY="-14" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0003" x="431" y="1867" width="452" height="414" frameX="-2" frameY="-14" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0004" x="883" y="1867" width="456" height="423" frameX="0" frameY="-18" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0005" x="883" y="1867" width="456" height="423" frameX="0" frameY="-18" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0006" x="1339" y="1867" width="450" height="434" frameX="-2" frameY="-11" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0007" x="1339" y="1867" width="450" height="434" frameX="-2" frameY="-11" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0008" x="0" y="2301" width="445" height="423" frameX="-5" frameY="-13" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0009" x="0" y="2301" width="445" height="423" frameX="-5" frameY="-13" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0010" x="0" y="2301" width="445" height="423" frameX="-5" frameY="-13" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0011" x="0" y="2301" width="445" height="423" frameX="-5" frameY="-13" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0012" x="0" y="2301" width="445" height="423" frameX="-5" frameY="-13" frameWidth="456" frameHeight="445"/>
+	<SubTexture name="BfBad Up0013" x="0" y="2301" width="445" height="423" frameX="-5" frameY="-13" frameWidth="456" frameHeight="445"/>
+</TextureAtlas>

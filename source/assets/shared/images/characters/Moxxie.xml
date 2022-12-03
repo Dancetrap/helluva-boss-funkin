@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Moxxie.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Moxxie Idle dance0000" x="0" y="0" width="714" height="609" frameX="0" frameY="-16" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0001" x="0" y="0" width="714" height="609" frameX="0" frameY="-16" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0002" x="714" y="0" width="685" height="614" frameX="-29" frameY="-11" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0003" x="714" y="0" width="685" height="614" frameX="-29" frameY="-11" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0004" x="1399" y="0" width="668" height="625" frameX="-45" frameY="0" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0005" x="1399" y="0" width="668" height="625" frameX="-45" frameY="0" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0006" x="2067" y="0" width="656" height="625" frameX="-56" frameY="0" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0007" x="2723" y="0" width="655" height="625" frameX="-57" frameY="0" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0008" x="3378" y="0" width="655" height="625" frameX="-57" frameY="0" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0009" x="0" y="625" width="654" height="625" frameX="-58" frameY="0" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0010" x="0" y="625" width="654" height="625" frameX="-58" frameY="0" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0011" x="0" y="625" width="654" height="625" frameX="-58" frameY="0" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0012" x="0" y="625" width="654" height="625" frameX="-58" frameY="0" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Idle dance0013" x="0" y="625" width="654" height="625" frameX="-58" frameY="0" frameWidth="714" frameHeight="625"/>
+	<SubTexture name="Moxxie Left Dance0000" x="654" y="625" width="542" height="698" frameX="-9" frameY="0" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0001" x="654" y="625" width="542" height="698" frameX="-9" frameY="0" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0002" x="1196" y="625" width="537" height="694" frameX="-15" frameY="-4" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0003" x="1196" y="625" width="537" height="694" frameX="-15" frameY="-4" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0004" x="1733" y="625" width="538" height="694" frameX="-14" frameY="-4" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0005" x="2271" y="625" width="552" height="693" frameX="0" frameY="-5" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0006" x="2823" y="625" width="552" height="692" frameX="0" frameY="-6" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0007" x="3375" y="625" width="552" height="692" frameX="0" frameY="-6" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0008" x="0" y="1323" width="552" height="692" frameX="0" frameY="-6" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0009" x="0" y="1323" width="552" height="692" frameX="0" frameY="-6" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0010" x="0" y="1323" width="552" height="692" frameX="0" frameY="-6" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0011" x="0" y="1323" width="552" height="692" frameX="0" frameY="-6" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0012" x="0" y="1323" width="552" height="692" frameX="0" frameY="-6" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0013" x="0" y="1323" width="552" height="692" frameX="0" frameY="-6" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0014" x="0" y="1323" width="552" height="692" frameX="0" frameY="-6" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Left Dance0015" x="0" y="1323" width="552" height="692" frameX="0" frameY="-6" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Right Dance0000" x="552" y="1323" width="840" height="623" frameX="-11" frameY="-1" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0001" x="552" y="1323" width="840" height="623" frameX="-11" frameY="-1" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0002" x="1392" y="1323" width="834" height="624" frameX="-4" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0003" x="2226" y="1323" width="832" height="624" frameX="-6" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0004" x="3058" y="1323" width="826" height="624" frameX="0" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0005" x="0" y="2015" width="643" height="624" frameX="-177" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0006" x="643" y="2015" width="644" height="624" frameX="-177" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0007" x="1287" y="2015" width="638" height="624" frameX="-183" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0008" x="1925" y="2015" width="638" height="624" frameX="-183" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0009" x="2563" y="2015" width="638" height="624" frameX="-183" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0010" x="3201" y="2015" width="638" height="624" frameX="-183" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0011" x="3201" y="2015" width="638" height="624" frameX="-183" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0012" x="3201" y="2015" width="638" height="624" frameX="-183" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0013" x="3201" y="2015" width="638" height="624" frameX="-183" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0014" x="3201" y="2015" width="638" height="624" frameX="-183" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Right Dance0015" x="3201" y="2015" width="638" height="624" frameX="-183" frameY="0" frameWidth="851" frameHeight="624"/>
+	<SubTexture name="Moxxie Up Dance0000" x="0" y="2639" width="552" height="698"/>
+	<SubTexture name="Moxxie Up Dance0001" x="0" y="2639" width="552" height="698"/>
+	<SubTexture name="Moxxie Up Dance0002" x="552" y="2639" width="543" height="689" frameX="-5" frameY="-9" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0003" x="552" y="2639" width="543" height="689" frameX="-5" frameY="-9" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0004" x="1095" y="2639" width="538" height="687" frameX="-8" frameY="-11" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0005" x="1633" y="2639" width="521" height="685" frameX="-23" frameY="-13" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0006" x="2154" y="2639" width="521" height="685" frameX="-23" frameY="-13" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0007" x="2675" y="2639" width="534" height="686" frameX="-9" frameY="-12" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0008" x="3209" y="2639" width="534" height="686" frameX="-9" frameY="-12" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0009" x="0" y="3337" width="534" height="686" frameX="-9" frameY="-12" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0010" x="534" y="3337" width="534" height="686" frameX="-9" frameY="-12" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0011" x="534" y="3337" width="534" height="686" frameX="-9" frameY="-12" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0012" x="534" y="3337" width="534" height="686" frameX="-9" frameY="-12" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0013" x="534" y="3337" width="534" height="686" frameX="-9" frameY="-12" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0014" x="534" y="3337" width="534" height="686" frameX="-9" frameY="-12" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0015" x="534" y="3337" width="534" height="686" frameX="-9" frameY="-12" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie Up Dance0016" x="534" y="3337" width="534" height="686" frameX="-9" frameY="-12" frameWidth="552" frameHeight="698"/>
+	<SubTexture name="Moxxie down Dance0000" x="1068" y="3337" width="601" height="508" frameX="-34" frameY="-12" frameWidth="639" frameHeight="520"/>
+	<SubTexture name="Moxxie down Dance0001" x="1669" y="3337" width="601" height="508" frameX="-34" frameY="-12" frameWidth="639" frameHeight="520"/>
+	<SubTexture name="Moxxie down Dance0002" x="2270" y="3337" width="607" height="517" frameX="-29" frameY="-3" frameWidth="639" frameHeight="520"/>
+	<SubTexture name="Moxxie down Dance0003" x="2270" y="3337" width="607" height="517" frameX="-29" frameY="-3" frameWidth="639" frameHeight="520"/>
+	<SubTexture name="Moxxie down Dance0004" x="2877" y="3337" width="633" height="517" frameX="-3" frameY="-3" frameWidth="639" frameHeight="520"/>
+	<SubTexture name="Moxxie down Dance0005" x="0" y="4023" width="636" height="520" frameX="-1" frameY="0" frameWidth="639" frameHeight="520"/>
+	<SubTexture name="Moxxie down Dance0006" x="636" y="4023" width="636" height="520" frameX="-1" frameY="0" frameWidth="639" frameHeight="520"/>
+	<SubTexture name="Moxxie down Dance0007" x="1272" y="4023" width="637" height="520" frameX="0" frameY="0" frameWidth="639" frameHeight="520"/>
+	<SubTexture name="Moxxie down Dance0008" x="1909" y="4023" width="637" height="520" frameX="0" frameY="0" frameWidth="639" frameHeight="520"/>
+	<SubTexture name="Moxxie down Dance0009" x="2546" y="4023" width="639" height="520"/>
+	<SubTexture name="Moxxie down Dance0010" x="2546" y="4023" width="639" height="520"/>
+	<SubTexture name="Moxxie down Dance0011" x="2546" y="4023" width="639" height="520"/>
+	<SubTexture name="Moxxie down Dance0012" x="2546" y="4023" width="639" height="520"/>
+	<SubTexture name="Moxxie down Dance0013" x="2546" y="4023" width="639" height="520"/>
+	<SubTexture name="Moxxie down Dance0014" x="2546" y="4023" width="639" height="520"/>
+</TextureAtlas>

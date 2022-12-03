@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "MoxxieMalDibujadoXD Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MoxxieMalDibujadoXD Idle"
+		},
+		{
+			"offsets": [
+				-3,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "MoxxieMalDibujadoXD Up"
+		},
+		{
+			"offsets": [
+				-22,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MoxxieMalDibujadoXD Left"
+		},
+		{
+			"offsets": [
+				23,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MoxxieMalDibujadoXD Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Bad Moxxie Pissed",
+	"position": [
+		-50,
+		265
+	],
+	"healthicon": "bfbad",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		60,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}
